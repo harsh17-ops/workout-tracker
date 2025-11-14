@@ -63,10 +63,9 @@ A modern workout tracking application built with Next.js, MongoDB, and React. Tr
 
 ## Environment Variables
 
-Create a `.env.local` file with the following variables:
+Create a `.env.local` file and add mongodb_uri
 
-```env
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/database_name
+
 ```
 
 ## Project Structure
